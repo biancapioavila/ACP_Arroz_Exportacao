@@ -2,7 +2,8 @@
 # consumer_acceptance
 
 <h1 align = "center" > Aceitação de Consumidores Produto Importado </h1>
-[![Arroz aromático importado](https://user-images.githubusercontent.com/108989486/187798795-25379afc-3543-4a5b-a5af-6c3612db55bc.png)]
+
+![Arroz aromático importado](https://user-images.githubusercontent.com/108989486/187798795-25379afc-3543-4a5b-a5af-6c3612db55bc.png)
 
 
 ## :small_blue_diamond: Descrição do projeto 
@@ -17,7 +18,8 @@
   Diante disso, o objetivo nesse projeto, é verificar a aceitação dos consumidores brasileiros, quanto ao consumo de arroz aromático do tipo Basmati.
 </p>
 
-## :small_blue_diamond: Tecnologias utilizadas
+## :small_blue_diamond: Linguagem e Bibliotecas utilizadas
 
-<div style="display: inline_block"><br>
-    <img align= "center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+- ``Python``
+- ``Pandas``
+- ``Matplotlib``
