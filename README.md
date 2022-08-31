@@ -2,7 +2,7 @@
 # consumer_acceptance
 
 <h1 align = "center" > Aceitação de Consumidores Produto Importado </h1>
-![Arroz aromático importado](https://user-images.githubusercontent.com/108989486/187792282-416be1d0-f0f8-4621-9fed-06d4dfc8f570.png)
+![Arroz aromático importado](https://github.com/biancapioavila/consumer_acceptance/blob/main/Arroz%20arom%C3%A1tico%20importado.png)
 
 ## :small_blue_diamond: Descrição do projeto 
 
